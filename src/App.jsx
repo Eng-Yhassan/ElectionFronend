@@ -21,7 +21,7 @@ import GetAllAdmins from './Pages/dashboard/Admin/Get All/GetAllAdmins'
 import EditAdmin from './Pages/dashboard/Admin/Edit/EditAdmin'
 import AdminProtectRoute from './components/routes/AdminProtectRoute'
 import VoterProtectRoute from './components/routes/VoterProtectRoute'
-import CandidateProtectRoute from './components/routes/candidateProtectRoute'
+import CandidateProtectRoute from './components/routes/CandidateProtectRoute'
 import NotFoundPage from './Pages/NotFoundPage/NotFoundPage'
 
 
